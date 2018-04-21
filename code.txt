@@ -3,3 +3,5 @@ init commit
 commit #3
 
 commit with -m (comments)
+
+change DTYPE DSG-EAS to EAS-ENDEC
